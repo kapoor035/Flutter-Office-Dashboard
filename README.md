@@ -6,7 +6,7 @@ Whether you’re tracking productivity, managing teams, or organizing tasks, thi
 
 • 🧭 Clean and intuitive UI with Flutter’s Material Design
 • 📊 Interactive charts and data visualizations
-• 🌗 Light and dark mode support
+• Dark mode and responsive layout
 • ⚙️ Cross-platform compatibility (Web, Windows, MacOS, Linux, Android, iOS)
 • 📦 Easily customizable and extendable
 
