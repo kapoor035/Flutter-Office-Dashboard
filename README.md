@@ -3,11 +3,12 @@ Flutter Office Dashboard is a modern and responsive cross-platform dashboard app
 Whether you’re tracking productivity, managing teams, or organizing tasks, this dashboard offers a flexible and scalable foundation that can be customized for a variety of office environments.
 
 ✨ Key Highlights
-	•	🧭 Clean and intuitive UI with Flutter’s Material Design
-	•	📊 Interactive charts and data visualizations
-	•	🌗 Light and dark mode support
-	•	⚙️ Cross-platform compatibility (Web, Windows, MacOS, Linux, Android, iOS)
-	•	📦 Easily customizable and extendable
+
+• 🧭 Clean and intuitive UI with Flutter’s Material Design
+• 📊 Interactive charts and data visualizations
+• 🌗 Light and dark mode support
+• ⚙️ Cross-platform compatibility (Web, Windows, MacOS, Linux, Android, iOS)
+• 📦 Easily customizable and extendable
 
  
 
